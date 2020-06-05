@@ -1,0 +1,15 @@
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.exe
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.deps.json
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.runtimeconfig.json
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.runtimeconfig.dev.json
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.dll
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\SocketSharp.pdb
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.csprojAssemblyReference.cache
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.AssemblyInfoInputs.cache
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.AssemblyInfo.cs
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.csproj.CoreCompileInputs.cache
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.dll
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.pdb
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.genruntimeconfig.cache
+C:\Users\tulio\Sistemas\Socket\SocketSharp\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\tulio\Sistemas\Socket\SocketSharp\obj\Debug\netcoreapp3.1\SocketSharp.csproj.CopyComplete

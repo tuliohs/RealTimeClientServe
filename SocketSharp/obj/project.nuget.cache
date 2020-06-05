@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2+uwY/urFFvE4d5pkZBAcr9qtPrBYykyi+brXoJccp2ASo87oi9YSEhkVFtD1fENVpSovwOzCSIm/fXzSxJCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulio\\Sistemas\\Socket\\SocketSharp\\SocketSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulio\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'WebSocketSharp 1.0.3-rc11' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
