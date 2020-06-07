@@ -27,7 +27,9 @@ io.on('connection', socket => {
         console.log('Chat.message => ', data)
         messages.push(data);
         // como é io e não socket.emit, data sera enviado para todos os sockets
-        io.emit('chat.message',data)
+        io.emit('chat.message',data);
+        //O broadcast manda para os outros socket e não manda para o atual
+        //socket.broadcast.emit('chat.message',data);
     })
     socket.on('disconection', data => {
         console.log('user desconected')
